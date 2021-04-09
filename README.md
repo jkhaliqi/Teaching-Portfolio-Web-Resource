@@ -1,5 +1,5 @@
 # Teaching-Portfolio-Web-Resource
 
-As Part of EDS 124BR, some helpful projects/ tools made in the class to help others learn coding!
+### As Part of EDS 124BR, some helpful projects/ tools made in the class to help others learn coding!
 
 - Walking through code of drawing a house on Snap!
