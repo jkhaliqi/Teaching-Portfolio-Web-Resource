@@ -7,3 +7,6 @@ As Part of EDS 124BR, some helpful projects made in the class to help others lea
 
 # Kid Dancing Code With the Use of Repeats Below!
 [Video explanation](https://youtu.be/zv0HQvltPH8)
+
+# Animal Parade With The Use of Repeats Below!
+[Animal Parade Explained](https://youtu.be/31XCvEdDD64)
