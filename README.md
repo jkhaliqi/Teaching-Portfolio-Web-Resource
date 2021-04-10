@@ -2,8 +2,8 @@
 
 As Part of EDS 124BR, some helpful projects made in the class to help others learn coding!
 
-# Code of drawing a house on Snap!
+# Code of drawing a house on Snap! Below!
   [Video of Drawing a house explained](https://www.youtube.com/watch?v=_aAkfPFLLos)
 
-# Kid Dancing Code With the Use of Repeats
-# [Video of kid dancing](https://youtu.be/zv0HQvltPH8)
+# Kid Dancing Code With the Use of Repeats Below!
+[Video explanation](https://youtu.be/zv0HQvltPH8)
