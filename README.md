@@ -6,4 +6,4 @@
   - https://www.youtube.com/watch?v=_aAkfPFLLos
 
 # Kid Dancing Code With the Use of Repeats
-[Video of kid dancing] (https://youtu.be/zv0HQvltPH8)
+[Video of kid dancing](https://youtu.be/zv0HQvltPH8)
