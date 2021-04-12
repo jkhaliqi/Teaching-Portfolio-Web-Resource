@@ -12,4 +12,4 @@ As Part of EDS 124BR, some helpful projects made inside of class! Explanation an
 [Animal Parade Explained](https://youtu.be/31XCvEdDD64)
 
 # Mouse Draws Octagon With Nested Loops
-[Mouse Code With Nested Loops Explained]
+[Mouse Code With Nested Loops Explained](https://youtu.be/cv7BR8CQs5g)
