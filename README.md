@@ -11,4 +11,5 @@ As Part of EDS 124BR, some helpful projects made inside of class! Explanation an
 # Animal Parade With The Use of Repeats Below!
 [Animal Parade Explained](https://youtu.be/31XCvEdDD64)
 
-# TITle
+# Mouse Draws Octagon With Nested Loops
+[Mouse Code With Nested Loops Explained]
