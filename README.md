@@ -15,4 +15,4 @@ As Part of EDS 124BR, some helpful projects made inside of class! Explanation an
 [Mouse Code With Nested Loops Explained](https://youtu.be/cv7BR8CQs5g)
 
 # Monkey Catches Bananas Game
-[] (https://youtu.be/IrpaqyYnTus)
+[Walkthrough of the game explaining events] (https://youtu.be/IrpaqyYnTus)
