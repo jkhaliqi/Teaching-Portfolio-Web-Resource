@@ -16,3 +16,6 @@ As Part of EDS 124BR, some helpful projects made inside of class! Explanation an
 
 # Monkey Catches Bananas Game
 [Walkthrough of the code explaining events](https://youtu.be/IrpaqyYnTus)
+
+# Shapes With Variables
+[Walkthrough of coding shapes with variables]()
