@@ -21,4 +21,4 @@ As Part of EDS 124BR, some helpful projects made inside of class! Explanation an
 [Walkthrough of coding shapes with variables](https://youtu.be/poqvqVwWyqI)
 
 # Catch the Soccer Ball Game
-[Walkthrough explaining use of Conditional Repeats]()
+[Walkthrough explaining use of Conditional Repeats](https://youtu.be/20ahJqbnkxU)
