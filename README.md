@@ -22,3 +22,6 @@ As Part of EDS 124BR, some helpful projects made inside of class! Explanation an
 
 # Catch the Soccer Ball Game
 [Walkthrough explaining use of Conditional Repeats](https://youtu.be/20ahJqbnkxU)
+
+# Click the Ball For Points
+[Walkthrough explaining the if else statements](https://youtu.be/gRhj8wwID-4)
