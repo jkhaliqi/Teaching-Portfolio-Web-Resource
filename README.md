@@ -26,5 +26,5 @@ As Part of EDS 124BR, some helpful projects made inside of class! Explanation an
 # Click the Ball For Points
 [Walkthrough explaining the if else statements](https://youtu.be/gRhj8wwID-4)
 
-# See If The Penguin Wants To Swim
+# Penguin at the Beach
 [Walkthrough of nested if else statements with penguin](https://youtu.be/4TJVq_nPmes)
