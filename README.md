@@ -28,3 +28,6 @@ As Part of EDS 124BR, some helpful projects made inside of class! Explanation an
 
 # Penguin at the Beach
 [Walkthrough of nested if else statements with penguin](https://youtu.be/4TJVq_nPmes)
+
+# Help Alonzo Find The Treasure
+[Walkthrough of compound conditionals](https://youtu.be/cOKLYnZseeU)
