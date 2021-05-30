@@ -1,6 +1,6 @@
 # Teaching-Portfolio-Web-Resource
 
-As Part of EDS 124BR, some helpful projects made inside of class! Explanation and walk through of the code also provided to help others learn coding!
+Helpful projects made inside of EDS 124BR! Explanation and walk through videos of the code is also provided to help others learn coding!
 
 # Code of drawing a house on Snap! Below!
   [Video of Drawing a house explained](https://www.youtube.com/watch?v=_aAkfPFLLos)
