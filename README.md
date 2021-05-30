@@ -35,3 +35,6 @@ As Part of EDS 124BR, some helpful projects made inside of class! Explanation an
 # Drawing a Picture Using Abstraction
 [walkthrough of breaking up complex task to smaller chunks](https://youtu.be/VBOQCus6r8U)
 
+# All Countries That Start With Your Letter
+[walkthrough of lists that can make program say all countries that start with certain letter](https://youtu.be/rFcSFKZHwuY)
+
